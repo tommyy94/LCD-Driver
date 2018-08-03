@@ -1,2 +1,3 @@
-# LCD-Driver
-Driver for generic 2x16 display LCD.
+# LCD Driver
+* Supports AVR Microcontrollers
+* ARM support maybe later
